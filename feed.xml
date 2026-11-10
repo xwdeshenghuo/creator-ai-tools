@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>短视频创作者 AI 工具榜</title>
+    <link>https://xwdeshenghuo.github.io/creator-ai-tools/</link>
+    <atom:link href="https://xwdeshenghuo.github.io/creator-ai-tools/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>面向短视频创作者的 AI 工具对比榜单：数字人、AI 配音、AI 剪辑、文案字幕四大类，价格与功能按各工具官网公开页面整理。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Nov 2026 01:30:00 GMT</lastBuildDate>
+    <item>
+      <title>选购指南：短视频创作者怎么选 AI 工具</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/guides/how-to-choose.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/guides/how-to-choose.html</guid>
+      <pubDate>Tue, 10 Nov 2026 01:30:00 GMT</pubDate>
+      <description>先定用途再定预算：数字人、配音、剪辑、文案四类 AI 工具的选购方法与避坑要点。</description>
+    </item>
+    <item>
+      <title>HeyGen 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/heygen.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/heygen.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>HeyGen 数字人视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Synthesia 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/synthesia.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/synthesia.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Synthesia 企业级数字人视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>ElevenLabs 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/elevenlabs.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/elevenlabs.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>ElevenLabs AI 语音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Murf 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/murf.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/murf.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Murf 在线配音工作室的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>OpusClip 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/opusclip.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/opusclip.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>OpusClip 长视频切片工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Descript 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/descript.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/descript.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Descript 文字剪辑工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>剪映 / CapCut 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/capcut.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/capcut.html</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
+      <description>剪映 / CapCut 剪辑工具的价格、核心功能与适合人群（免费工具条目，本站不从该条目获佣金）。</description>
+    </item>
+  </channel>
+</rss>
