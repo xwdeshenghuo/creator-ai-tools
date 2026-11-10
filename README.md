@@ -47,3 +47,12 @@
 
 - [ ] 运营者注册各工具联盟账号后，按详情页中的 TODO 注释替换联盟链接
 - [ ] 上线 30 天验收：看搜索引擎收录页数与导航站收录家数（不看佣金）
+
+## 站外发布（2026-11-10 公域扫盘新增）
+
+- 选购指南页：https://xwdeshenghuo.github.io/creator-ai-tools/guides/how-to-choose.html
+- RSS：https://xwdeshenghuo.github.io/creator-ai-tools/feed.xml
+- IndexNow：密钥文件已上线，2026-11-10 已向 api.indexnow.org / Bing / Yandex 提交全部 9 个 URL（返回 200/200/202）
+- Telegraph 英文介绍页：https://telegra.ph/Best-AI-Tools-for-Video-Creators-in-2026--Avatar-Voice-and-Editing-Compared-11-10
+- GitHub Gist 英文版：https://gist.github.com/xwdeshenghuo/edd61fa3c23be406d010b8d0388050e3
+- Awesome 清单 PR：https://github.com/0voice/awesome-ai-tools/pull/242（待审）
