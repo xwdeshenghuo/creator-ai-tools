@@ -4,9 +4,16 @@
     <title>短视频创作者 AI 工具榜</title>
     <link>https://xwdeshenghuo.github.io/creator-ai-tools/</link>
     <atom:link href="https://xwdeshenghuo.github.io/creator-ai-tools/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>面向短视频创作者的 AI 工具对比榜单：数字人、AI 配音、AI 剪辑、文案字幕四大类，价格与功能按各工具官网公开页面整理。</description>
+    <description>面向短视频创作者的 AI 工具对比榜单：数字人、AI 配音、AI 剪辑、文案字幕、图片设计五大类共 30 个工具，价格与功能按各工具官网公开页面整理。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:30:00 GMT</lastBuildDate>
+    <item>
+      <title>导航站扩至 30 个工具：新增数字人、配音、剪辑、文案与图片类 23 款</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/#v3-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>新增 D-ID、Colossyan、Elai、Vidnoz、Speechify、Lovo、WellSaid、Listnr、Narakeet、Runway、Pictory、InVideo、Kapwing、VEED、Vizard、Submagic、Jasper、Copy.ai、Otter、Riverside、Canva、Leonardo AI、Midjourney 共 23 个工具详情页；价格与联盟条款按各家官网核对，未能证实的内容页内标明“未核实”。</description>
+    </item>
     <item>
       <title>选购指南：短视频创作者怎么选 AI 工具</title>
       <link>https://xwdeshenghuo.github.io/creator-ai-tools/guides/how-to-choose.html</link>
@@ -62,6 +69,167 @@
       <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/capcut.html</guid>
       <pubDate>Sun, 08 Nov 2026 01:30:00 GMT</pubDate>
       <description>剪映 / CapCut 剪辑工具的价格、核心功能与适合人群（免费工具条目，本站不从该条目获佣金）。</description>
+    </item>
+    <item>
+      <title>D-ID 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/d-id.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/d-id.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>D-ID 数字人视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Colossyan 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/colossyan.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/colossyan.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Colossyan AI 讲师培训视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Elai.io 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/elai.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/elai.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Elai.io 数字人讲师视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Vidnoz AI 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/vidnoz.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/vidnoz.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Vidnoz AI 数字人视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Speechify 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/speechify.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/speechify.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Speechify AI 配音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Lovo AI 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/lovo.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/lovo.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Lovo AI 配音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>WellSaid Labs 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/wellsaid.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/wellsaid.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>WellSaid Labs AI 配音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Listnr 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/listnr.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/listnr.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Listnr AI 配音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Narakeet 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/narakeet.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/narakeet.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Narakeet 文本转语音工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Runway 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/runway.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/runway.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Runway AI 视频生成与剪辑工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Pictory 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/pictory.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/pictory.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Pictory 文章转视频工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>InVideo 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/invideo.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/invideo.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>InVideo AI 视频生成工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Kapwing 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/kapwing.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/kapwing.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Kapwing 在线剪辑工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>VEED 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/veed.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/veed.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>VEED 在线剪辑工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Vizard 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/vizard.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/vizard.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Vizard 长视频切短片工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Submagic 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/submagic.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/submagic.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Submagic 短视频花字字幕工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Jasper 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/jasper.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/jasper.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Jasper AI 营销文案工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Copy.ai 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/copyai.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/copyai.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Copy.ai AI 文案工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Otter.ai 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/otter.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/otter.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Otter.ai 会议转写工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Riverside 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/riverside.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/riverside.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Riverside 远程录制与剪辑工具的价格、核心功能与适合人群。</description>
+    </item>
+    <item>
+      <title>Canva 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/canva.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/canva.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Canva 设计工具的价格、核心功能与适合人群（无联盟计划，本站不从该条目获佣金）。</description>
+    </item>
+    <item>
+      <title>Leonardo AI 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/leonardo.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/leonardo.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Leonardo AI 生图工具的价格、核心功能与适合人群（联盟计划已关闭，本站不从该条目获佣金）。</description>
+    </item>
+    <item>
+      <title>Midjourney 怎么样？价格与功能</title>
+      <link>https://xwdeshenghuo.github.io/creator-ai-tools/tools/midjourney.html</link>
+      <guid>https://xwdeshenghuo.github.io/creator-ai-tools/tools/midjourney.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:00 GMT</pubDate>
+      <description>Midjourney 生图工具的价格、核心功能与适合人群（无联盟计划，本站不从该条目获佣金）。</description>
     </item>
   </channel>
 </rss>
